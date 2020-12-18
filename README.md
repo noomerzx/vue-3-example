@@ -30,4 +30,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 1
 2
-3
